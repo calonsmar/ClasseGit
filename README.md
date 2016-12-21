@@ -1,1 +1,3 @@
 # ClasseGit
+## Explicació GIT
+**Exemple**
