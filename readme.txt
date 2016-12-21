@@ -1,1 +1,3 @@
-Primera aproximació a git
+Primera aproximaciï¿½ a git
+
+Un canvi que fem online
