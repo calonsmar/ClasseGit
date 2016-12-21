@@ -1,0 +1,1 @@
+Primera aproximació a git
