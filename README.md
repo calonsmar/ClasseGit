@@ -3,3 +3,5 @@
 ## Explicació GIT
 
 **Exemple**
+
+Canvis proposats
